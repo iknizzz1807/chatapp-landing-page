@@ -20,6 +20,15 @@ body {
   line-height: 1.6;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
 /* Navigation */
 nav {
   display: flex;
